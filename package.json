@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JamesEArnold/dependabot-replica#readme",
   "dependencies": {
+    "@jest/transform": "^29.1.0",
     "axios": "^0.24.0",
     "get-pkg-repo": "^1.4.0"
   }
