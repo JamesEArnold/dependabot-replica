@@ -1,0 +1,23 @@
+{
+  "name": "dependabot-replica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesEArnold/dependabot-replica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesEArnold/dependabot-replica/issues"
+  },
+  "homepage": "https://github.com/JamesEArnold/dependabot-replica#readme",
+  "dependencies": {
+    "get-pkg-repo": "^1.4.0"
+  }
+}
